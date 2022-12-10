@@ -1,0 +1,155 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch testrun",
+            "request": "launch",
+            "mainClass": "Java.testrun",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarysearch",
+            "request": "launch",
+            "mainClass": "Java.binarysearch",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch quicksort",
+            "request": "launch",
+            "mainClass": "Java.quicksort",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequencyofelement",
+            "request": "launch",
+            "mainClass": "Java.frequencyofelement",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionsort",
+            "request": "launch",
+            "mainClass": "Java.insertionsort",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubulesort",
+            "request": "launch",
+            "mainClass": "Java.bubulesort",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch testing",
+            "request": "launch",
+            "mainClass": "Java.testing",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstandlast",
+            "request": "launch",
+            "mainClass": "Java.firstandlast",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequency",
+            "request": "launch",
+            "mainClass": "Java.frequency",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch miniproject",
+            "request": "launch",
+            "mainClass": "Java.miniproject",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequenct",
+            "request": "launch",
+            "mainClass": "Java.frequenct",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch game",
+            "request": "launch",
+            "mainClass": "Java.game",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Java.test",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch dryrun",
+            "request": "launch",
+            "mainClass": "Java.dryrun",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insertionsort",
+            "request": "launch",
+            "mainClass": "Java.Insertionsort",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch closesum",
+            "request": "launch",
+            "mainClass": "Java.closesum",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraylist",
+            "request": "launch",
+            "mainClass": "Java.arraylist",
+            "projectName": "Frontend_183d52d",
+            "vmArgs": "--module-path \"C:/java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashing1",
+            "request": "launch",
+            "mainClass": "Java.hashing1",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch pair",
+            "request": "launch",
+            "mainClass": "Java.pair",
+            "projectName": "Frontend_183d52d"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversearray",
+            "request": "launch",
+            "mainClass": "Java.reversearray",
+            "projectName": "Frontend_183d52d"
+        }
+    ]
+}
